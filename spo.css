@@ -1,0 +1,246 @@
+*{
+    padding: 0;
+    margin: 0;
+     font-family:arial ;
+    color: white;
+    border: border-box;
+    
+
+}
+body{
+background-color:#100e0e;
+}
+.main-panel{
+    display: inline;
+}
+
+
+    
+    
+
+
+
+.sidenav-bar{
+   height: 769px; 
+    width: 222px;
+    border-radius: 5px;
+    color: white;
+background-color: #000;
+    
+}
+.nav-logo{
+    height: 25px;
+    width: 100px;
+    padding-left: 35px;
+    padding-top: 15px;
+    
+
+}
+.logo{
+    background-image: url(imag/spotifylogo.png);
+    height: 25px;
+    width: 98px;
+    background-size: cover;
+}
+.home-icon i{
+    font-size: 25px;
+    margin: 5px 5px ;
+
+}
+.home-icon{
+    font-weight: 700;
+    position: relative;
+    padding-top: 35px;
+    
+}
+.search-icon i{
+    font-size: 25px;
+    margin: 5px 5px ;
+}
+.search-icon{
+    font-weight: 700;
+    position: relative;
+    padding-top: 35px;
+}
+.nav-logo{
+    background-color: #100e0e;
+    height: 170px;
+    width: 177px;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+.nav-end{
+    background-color: #100e0e;
+    height: 370px;
+    width: 217px;
+    padding-top: 10px;
+    border-radius: 15px;
+    margin-top: 15px;
+    
+    color: rgb(222, 218, 218);
+
+}
+.nav-end1{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(222, 218, 218);
+    
+}
+#a1{
+    height: 40px;
+    background-color: #1e1c1c;
+    text-align: center;
+    margin-top: 10px;   
+     align-items: center;
+     padding-top: 25px;
+}
+#a2{
+    font-size: 13px;
+    padding-left: 10px;
+}
+#b1{
+    height: 40px;
+    width: 108px;
+    border-radius: 40px;
+    background-color: #000;
+    border: none;
+}
+.nav2{
+    height: 70px;
+    width: 1056px;
+    background-color: #0b0a0a;
+    display: flex;
+    justify-content: space-between;
+}
+.main-panel{
+    display: ;
+}
+.main{
+    display: flex;
+}
+.part1{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 45px;
+    gap: 10px;
+}
+#p1{
+    background-color: #000;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    
+}
+#p2{
+    background-color: #000;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+
+}
+.part2{
+    padding-top:16px;
+padding-right:10px
+
+}
+.part2 a{
+    text-decoration: none;
+}
+
+
+
+#b2{
+    color: #000;
+    height: 47px;
+    width: 108px;
+    background-color: whitesmoke;
+    border-radius: 40px;
+    font-size: 24px;
+    padding-right:10px;
+    border:none
+    
+}
+.card1 img{
+    height:190px;
+    width: 175px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    
+}
+.card1 h4{
+    padding-top:10px;
+    padding-left:35px;
+}
+
+    
+
+.head{
+    padding-left: 20px;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.head h5{
+    padding-right: 10px;
+}
+.card1{
+    
+    height: 234px;
+    width: 178px;
+    padding-left:10px;
+    margin-left: 20px;
+    margin-top:10px
+}
+.card img{
+    background-size:cover;
+}
+.artist{
+    display: flex;
+    
+}
+.card1:hover{
+    background-color:#0b0a0a;
+    
+}
+
+
+
+
+
+
+
+
+<div class="child">
+ <div class="part1">
+    <a href="https://novolio-impulse.netlify.app/blog/this-is-latest-post/"><img src="imag/photo1.avif" style="width: 188px; height:124px;"></a>
+</div>
+</div>
+
+
+
+<div class="child">
+    <div class="part2">
+<div class="box1"></div>
+<div class="head"><h2>This is my third & latest post
+</h2>
+<div class="content"><P>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+
+</P>
+</div>
+<div class="button2">READ MORE</div>
+</div>
+</div>
+
+
